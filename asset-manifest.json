@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.edf8ef19.chunk.css",
+    "main.js": "/static/js/main.b740daed.chunk.js",
+    "main.js.map": "/static/js/main.b740daed.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5389a0db.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5389a0db.js.map",
+    "static/js/2.dee6b421.chunk.js": "/static/js/2.dee6b421.chunk.js",
+    "static/js/2.dee6b421.chunk.js.map": "/static/js/2.dee6b421.chunk.js.map",
+    "static/js/3.e362d07b.chunk.js": "/static/js/3.e362d07b.chunk.js",
+    "static/js/3.e362d07b.chunk.js.map": "/static/js/3.e362d07b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.edf8ef19.chunk.css.map": "/static/css/main.edf8ef19.chunk.css.map",
+    "static/js/2.dee6b421.chunk.js.LICENSE.txt": "/static/js/2.dee6b421.chunk.js.LICENSE.txt",
+    "static/media/1.9014185e.jpg": "/static/media/1.9014185e.jpg",
+    "static/media/2.2089e3b7.jpg": "/static/media/2.2089e3b7.jpg",
+    "static/media/3.4985d1cf.png": "/static/media/3.4985d1cf.png",
+    "static/media/GDA.6af43f17.png": "/static/media/GDA.6af43f17.png",
+    "static/media/cereals.2f6ffab9.svg": "/static/media/cereals.2f6ffab9.svg",
+    "static/media/coin.8c2fb939.png": "/static/media/coin.8c2fb939.png",
+    "static/media/eggs.395e08e3.svg": "/static/media/eggs.395e08e3.svg",
+    "static/media/fish.03767b51.svg": "/static/media/fish.03767b51.svg",
+    "static/media/fruits.ab52c402.svg": "/static/media/fruits.ab52c402.svg",
+    "static/media/navbarmain.css": "/static/media/nutrition.996336c6.svg",
+    "static/media/logo.846b49cc.svg": "/static/media/logo.846b49cc.svg",
+    "static/media/logo1.11bcb46d.png": "/static/media/logo1.11bcb46d.png",
+    "static/media/logo2.a957a9d0.png": "/static/media/logo2.a957a9d0.png",
+    "static/media/milk.a6c7253a.svg": "/static/media/milk.a6c7253a.svg",
+    "static/media/mortar.6193930f.svg": "/static/media/mortar.6193930f.svg",
+    "static/media/noimmage.e6a828de.png": "/static/media/noimmage.e6a828de.png",
+    "static/media/pagestart.51335faf.png": "/static/media/pagestart.51335faf.png",
+    "static/media/registor.css": "/static/media/pagestartlogin.3b085bca.png",
+    "static/media/roast-chicken.5d09e8ab.svg": "/static/media/roast-chicken.5d09e8ab.svg",
+    "static/media/vegetable.c0d80eb3.svg": "/static/media/vegetable.c0d80eb3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5389a0db.js",
+    "static/js/2.dee6b421.chunk.js",
+    "static/css/main.edf8ef19.chunk.css",
+    "static/js/main.b740daed.chunk.js"
+  ]
+}
